@@ -1,0 +1,4 @@
+sabse pahle designing krenge iski project setup krke jisme input field hoga principal , intrest , and year ka 
+
+--ab sare ko store krne k liye variable bnaynge
+--fr input field se value ko get krna hai or id ke base pe usme store krna hai 
